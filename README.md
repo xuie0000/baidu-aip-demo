@@ -1,4 +1,6 @@
-# 百度文字识别
+> 百度AI开放平台
+
+# 文字识别
 
 ## 运行
 
@@ -12,7 +14,7 @@ https://github.com/sydney0zq/python_ocr
 
 http://ai.baidu.com/docs#/OCR-Python-SDK/top
 
-# 百度图像识别
+# 图像识别
 
 ## 运行
 `python3 run_aip_image_classify.py`
@@ -20,3 +22,10 @@ http://ai.baidu.com/docs#/OCR-Python-SDK/top
 ## 参考
 
 http://ai.baidu.com/docs#/ImageClassify-Python-SDK/top
+
+# 图像搜索
+## 运行
+`python3 run_aip_image_search.py`
+
+## 参考
+http://ai.baidu.com/docs#/ImageSearch-Python-SDK/top
