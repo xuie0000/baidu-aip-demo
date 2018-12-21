@@ -1,4 +1,9 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+@author Jie Xu
+@date 2018-12-21
+"""
 import json
 
 from aip import AipOcr

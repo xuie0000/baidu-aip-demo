@@ -1,3 +1,6 @@
 /build
+.idea/
+*.pyc
 /baidu_aip.egg-info
 /dist
+/aip/__pycache__/
